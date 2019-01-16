@@ -1,0 +1,8 @@
+body{
+	background: url(images/field.jpg);
+}
+.centerImg {
+    position: absolute;
+    width:  50px;
+    height: 50px;
+}

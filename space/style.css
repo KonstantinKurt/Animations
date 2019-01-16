@@ -1,0 +1,27 @@
+#sun {
+    position: absolute;
+    width: 200px;
+    height:200px;
+   
+     border-radius: 50%;
+    background: url(images/sun.png);
+}
+
+#earth{
+    position: absolute;
+    width: 80px;
+    height:80px;
+    border-radius: 50%;
+    background: url(images/earth.png);
+}
+#moon{
+    position: absolute;
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    background: url(images/moon.jpg);
+}
+
+body{
+    background: url(images/space.jpg);
+}
